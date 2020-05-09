@@ -1,2 +1,2 @@
 # glsl-basics
-A basic repo of understanding basics of glsl
+A basic repo of understanding basics of glsl 
